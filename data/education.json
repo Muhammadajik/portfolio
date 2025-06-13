@@ -1,0 +1,16 @@
+[
+    {
+        "university": "National Taiwan University of Science and Technology",
+		"logo": "images/ntust-logo.png",
+        "major": "Master of Science in Electronic and Computer Engineering",
+        "year": "2016 - 2018",
+        "description": "GPA 4.10 of 4.3; Belong to Biomedical and Embedded System (BEST) Laboratory under supervision of Prof. Lin Yuan-Hsiang (Taiwan Chief of Electronic); Lead with 1 IEEE conference paper and 1 prestigious regional symposium paper"
+    },
+    {
+        "university": "Universitas Diponegoro",
+		"logo": "images/undip-logo.png",
+        "major": "Bachelor of Engineering in Electrical Engineering",
+        "year": "2011 - 2015",
+        "description": "GPA 3.41 of 4; Focusing on Biomedical Engineering and Microelectronic under advisory of Munawar Riyadi Ph. D.; Electronic Laboratory Coordinator in 2015; Outcome research with 2 IEEE conference paper"
+    }
+]
