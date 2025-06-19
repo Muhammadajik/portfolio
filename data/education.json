@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang ",
+		"logo": "images/polines-logo.png",
+        "major": "Bachelor Elektronics Engineering",
+        "year": "2022 - 2026",
+        "description": "I am currently studying in the Applied Bachelor's (D4) program of Electronic Engineering, where I learn about control systems, instrumentation, intelligent control, and embedded systems. The program focuses on designing and implementing advanced electronic systems used in automation, robotics, and smart technologies. It combines theoretical knowledge with practical applications to prepare students for solving real-world engineering problems."
+    },
+    {
+        "university": "SMK Nurul Barqi",
+		"logo": "images/NB.jpeg",
+        "major": "Mechatronics",
+        "year": "2018 - 2022",
+        "description": "I studied Mechatronics at vocational high school (SMK), where I learned a combination of mechanical and electronic engineering. The mechanical subjects included welding and operating CNC machines, while the electronics subjects covered electrical installation and programming in informatics. This multidisciplinary field gave me both hands-on technical skills and theoretical knowledge in automation systems and modern industrial technology."
+    }
+]

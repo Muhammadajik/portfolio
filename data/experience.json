@@ -1,0 +1,23 @@
+[
+    {
+        "company": "Karoseri Laksana",
+		"logo":"images/Laksana logo.png",
+        "position": "Operator Electric",
+        "year": "2022",
+        "description": "I work as an electrical function check operator at Laksana Karoseri, where I am responsible for inspecting and testing electrical systems on bus units. This includes verifying the functionality of lighting systems, wiring, sensors, control panels, and other electronic components to ensure they meet operational and safety standards before delivery.."
+    },
+	{
+        "company": "Training Prakerja",
+		"logo":"images/prakerja-logo.webp",
+        "position": "Design UI",
+        "year": "2024",
+        "description": "I have completed a Pre-Employment Card (Kartu Prakerja) training program focused on UI (User Interface) design. The training covered the fundamentals of UI principles, wireframing, layout design, color theory, typography, and the use of design tools such as Figma. This program helped me understand how to create user-friendly and visually appealing digital interfaces.."
+    },
+    {
+        "company": "Kedaireka",
+		"logo":"images/logo-kedai.jpg",
+        "position": "Safety Driver",
+        "year": "2022",
+        "description": "I have completed a Safety Driving training program, where I learned the principles of defensive driving, vehicle control, risk awareness, and safe driving practices. The training emphasized accident prevention, proper driving behavior, and compliance with traffic regulations to ensure safety for both drivers and passengers.."
+    }
+]

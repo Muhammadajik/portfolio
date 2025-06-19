@@ -1,0 +1,31 @@
+{
+    "name": "Muhammad Ajik Al Khusain- Technical Engineering",
+    "description": "Graduate of SMK Mechatronics and Diploma IV Electrical Engineering, Electronic Engineering study program. Experienced in 5 months internship and 6 months working at CV Karoseri Laksana in the field of production and electronic systems. Have participated in Prakerja training in the field of UI Design to improve application interface design skills. Disciplined, responsible, and continue to learn to develop themselves in the fields of engineering and design..",
+    "profileImage": "images/ajik.jpg",
+    "email": "muhammadajik19@gmail.com",
+    "phone": "+62 895-0888-1714",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/majik_alk"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Muhammadajik"
+        }
+        
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv ajik.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 65},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 90},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 70},
+	{"name": "3D Design", "icon": "fas fa-deskop", "level": 90}
+    ]
+}
