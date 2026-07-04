@@ -17,15 +17,14 @@
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/cv ajik.pdf",
+			"file": "docs/CV ATS AJIK.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 65},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 90},
+    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 75},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 75},
 	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 70},
-	{"name": "3D Design", "icon": "fas fa-deskop", "level": 90}
+	{"name": "3D Design", "icon": "fas fa-deskop", "level": 75},
+    {"name": "PLC Programing", "icon": "fas fa-deskop", "level": 75}
     ]
 }

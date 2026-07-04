@@ -116,27 +116,66 @@ function renderExperience(data) {
 // Render Projects Section
 function renderProjects(data) {
     const projectsGrid = document.getElementById('projects-grid');
-    
-    data.forEach(project => {
+
+    data.forEach((project, index) => {
+
+        let currentImage = 0;
+
+        const images = project.images || [project.image];
+
         const projectCard = document.createElement('div');
         projectCard.className = 'project-card';
+
         projectCard.innerHTML = `
             <div class="project-image">
-                <img src="${project.image}" alt="${project.title}">
+                <button class="prev-btn">&#10094;</button>
+
+                <img src="${images[0]}" alt="${project.title}" class="slider-image">
+
+                <button class="next-btn">&#10095;</button>
             </div>
+
             <div class="project-info">
                 <h3>${project.title}</h3>
+
                 <div class="project-meta">
                     <span><i class="fas fa-calendar-alt"></i> ${project.year}</span>
-                    ${project.fund ? `<span><i class="fas fa-money-bill-wave"></i> ${project.fund}</span>` : ''}
-                    ${project.partner ? `<span><i class="fas fa-users"></i> ${project.partner}</span>` : ''}
-                    ${project.role ? `<span><i class="fas fa-user-tie"></i> ${project.role}</span>` : ''}
+
+                    ${project.role ? `<span><i class="fas fa-user-tie"></i> ${project.role}</span>` : ""}
                 </div>
+
                 <p>${project.description}</p>
-                ${project.link ? `<a href="${project.link}" class="project-link" target="_blank">View Project <i class="fas fa-external-link-alt"></i></a>` : ''}
+
+                ${project.link ? `<a href="${project.link}" class="project-link" target="_blank">View Project</a>` : ""}
             </div>
         `;
+
+        const img = projectCard.querySelector(".slider-image");
+
+        projectCard.querySelector(".next-btn").addEventListener("click", () => {
+
+            currentImage++;
+
+            if(currentImage >= images.length){
+                currentImage = 0;
+            }
+
+            img.src = images[currentImage];
+        });
+
+        projectCard.querySelector(".prev-btn").addEventListener("click", () => {
+
+            currentImage--;
+
+            if(currentImage < 0){
+                currentImage = images.length - 1;
+            }
+
+            img.src = images[currentImage];
+        });
+
         projectsGrid.appendChild(projectCard);
+
     });
 }
 

@@ -593,3 +593,53 @@ footer {
         gap: 0.5rem;
     }
 }
+.project-image{
+    position: relative;
+    overflow: hidden;
+}
+
+.slider-image{
+    width:100%;
+    height:250px;
+    object-fit:cover;
+    display:block;
+}
+
+.prev-btn,
+.next-btn{
+
+    position:absolute;
+
+    top:50%;
+
+    transform:translateY(-50%);
+
+    width:40px;
+
+    height:40px;
+
+    border:none;
+
+    border-radius:50%;
+
+    background:rgba(0,0,0,.5);
+
+    color:white;
+
+    cursor:pointer;
+
+    font-size:20px;
+}
+
+.prev-btn{
+    left:10px;
+}
+
+.next-btn{
+    right:10px;
+}
+
+.prev-btn:hover,
+.next-btn:hover{
+    background:#007bff;
+}

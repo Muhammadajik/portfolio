@@ -14,6 +14,13 @@
         "description": "I have completed a Pre-Employment Card (Kartu Prakerja) training program focused on UI (User Interface) design. The training covered the fundamentals of UI principles, wireframing, layout design, color theory, typography, and the use of design tools such as Figma. This program helped me understand how to create user-friendly and visually appealing digital interfaces.."
     },
     {
+        "company": "Intern PT Purinusa Ekapersada",
+		"logo":"images/app.jpg",
+        "position": "Electrical Maintenance",
+        "year": "2026",
+        "description": "I have completed an internship in the electrical maintenance department. The training covered the fundamentals of maintenance, electrical control installation, and electrical troubleshooting; additionally, it enhanced my team communication skills and improved my ability to report work results and analyze issues.."
+    },
+    {
         "company": "Kedaireka",
 		"logo":"images/logo-kedai.jpg",
         "position": "Safety Driver",

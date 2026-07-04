@@ -2,9 +2,39 @@
     {
         "title": "IoT Health Monitoring System",
         "year": "2022",
-        "role": "Mechanic Engineer",
-        "description": "I developed an IoT-based health monitoring system for sports, which tracks vital signs like heart rate and body temperature in real time. The data is sent wirelessly to a mobile app to help monitor athlete performance and safety..",
-        "image": "images/pro.jpg",
+        "role": "Electrical Engineer",
+        "description": "I developed an IoT-based health monitoring system for sports, which tracks vital signs like heart rate and body temperature in real time. The data is sent wirelessly to a mobile app to help monitor athlete performance and safety.",
+        "images": [
+            "images/pro.jpg"
+        ],
         "link": "https://belajarmikrokontroler2k23.blogspot.com/2024/06/iot-health-monitoring-system-for-sports.html?m=1"
+    },
+
+    {
+        "title": "IoT Health Monitoring System",
+        "year": "2022",
+        "role": "Electrical Engineer",
+        "description": "Developed an IoT-based smart farming system for chrysanthemum cultivation that monitors and controls three key environmental parameters: temperature, light intensity, and soil moisture. The system provides real-time monitoring and automatic control to maintain optimal growing conditions, improving cultivation efficiency and plant productivity.",
+        "images": [
+            "images/iot1.jpeg",
+            "images/iot2.jpeg",
+            "images/iot3.jpeg"
+        ],
+        "link": "https://..."
+    },
+    {
+        "title": "Digitization of Dynamic-based Control Panel Electrical Wirring at PT Purinusa Ekapersada",
+        "year": "2026",
+        "role": "Electrical Miantenance",
+        "description": "I developed an innovation to digitize electrical schematics for control panels using dynamic QR codes at PT Purinusa Ekpersada. I initiated this because troubleshooting tasks invariably require these schematics, yet I observed that many existing documents were dirty, damaged, or torn—and in some cases, panels lacked schematics entirely. This forced technicians to retrieve them from the workshop, a process that consumed significant time and consequently extended machine downtime.",
+        "images": [
+            "images/Project1.jpeg",
+            "images/Project2.jpeg",
+            "images/Project3.jpeg"
+        ],
+        "link": "https://..."
     }
+    
+
+    
 ]
