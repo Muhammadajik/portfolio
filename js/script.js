@@ -241,3 +241,36 @@ document.addEventListener('DOMContentLoaded', function() {
         section.style.transition = 'all 0.6s ease-out';
     });
 });
+function renderCertificates(data){
+
+    const container = document.getElementById("certificates-grid");
+
+    data.forEach(cert=>{
+
+        const card=document.createElement("div");
+
+        card.className="certificate-card";
+
+        card.innerHTML=`
+            <img src="${cert.image}" alt="${cert.title}">
+
+            <div class="certificate-info">
+
+                <h3>${cert.title}</h3>
+
+                <p>${cert.issuer}</p>
+
+                <p>${cert.year}</p>
+
+                <a href="${cert.file}" target="_blank" class="certificate-btn">
+                    View Certificate
+                </a>
+
+            </div>
+        `;
+
+        container.appendChild(card);
+
+    });
+
+}

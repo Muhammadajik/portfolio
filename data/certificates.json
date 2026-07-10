@@ -1,0 +1,16 @@
+[
+    {
+        "title": "UI/UX Design",
+        "issuer": "Prakerja",
+        "year": "2025",
+        "image": "images/certificate1.jpg",
+        "file": "docs/UIUX.pdf"
+    },
+    {
+        "title": "PLC Programming",
+        "issuer": "Siemens",
+        "year": "2025",
+        "image": "images/certificate2.jpg",
+        "file": "docs/PLC.pdf"
+    }
+]
