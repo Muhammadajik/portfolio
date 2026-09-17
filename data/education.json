@@ -1,0 +1,25 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+        "logo": "images/polines-logo.png",
+        "major": "S.Tr Teknologi Rekayasa Elektronika (Applied Bachelor)",
+        "year": "Sep 2022 - Sep 2026",
+        "gpa": "3.38 / 4.00",
+        "description": "Applied undergraduate education in Electronic Engineering Technology with practical exposure to electrical engineering, automation, control, instrumentation, and embedded systems. Thesis: “IoT-Based Monitoring and Control System for Chrysanthemum Cultivation.”"
+    },
+    {
+        "university": "Sekolah Pintar",
+        "logo": "images/prakerja-logo.webp",
+        "major": "Desingning Software and Applications",
+        "year": "2024",
+        "description": "Desingning software architecture and installing software tools.”"
+    },
+    {
+        "university": "SMK Nurul Barqi Semarang",
+        "logo": "images/NB.jpeg",
+        "major": "Mechatronics",
+        "year": "Jun 2018 - Jun 2022",
+        "gpa": "",
+        "description": "Vocational education in Mechatronics covering mechanical and electronic engineering. Final project: MPS development. Participant in the UGM Mechanical Fair 2020 competition."
+    }
+]

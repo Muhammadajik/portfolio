@@ -1,0 +1,61 @@
+{
+    "name": "Muhammad Ajik Al Khusain",
+    "description": "An Applied Undergraduate in Electronic Engineering Technology from Politeknik Negeri Semarang with hands-on experience in electrical engineering, utility maintenance, industrial automation, and IoT development. Experienced in troubleshooting electrical systems, preventive and corrective machine maintenance, and integrating automation systems.",
+    "profileImage": "images/profil.jpeg",
+    "email": "muhammadajik19@gmail.com",
+    "phone": "+62 895-0888-1714",
+    "location": "Semarang, Central Java",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/muhammad-ajik-al-khusain"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/majik_alk"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Muhammadajik"
+        }
+    ],
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/CV.pdf",
+        "icon": "fas fa-file-pdf"
+    },
+    "skills": [
+        {
+            "name": "Electrical Maintenance",
+            "icon": "fas fa-screwdriver-wrench"
+        },
+        {
+            "name": "Electrical Troubleshooting",
+            "icon": "fas fa-bolt"
+        },
+        {
+            "name": "PLC Programming",
+            "icon": "fas fa-gears"
+        },
+        {
+            "name": "Industrial Automation",
+            "icon": "fas fa-industry"
+        },
+        {
+            "name": "Internet of Things",
+            "icon": "fas fa-wifi"
+        },
+        {
+            "name": "Control Panel Wiring",
+            "icon": "fas fa-diagram-project"
+        },
+        {
+            "name": "UI / Application Design",
+            "icon": "fas fa-pen-ruler"
+        },
+        {
+            "name": "3D Design",
+            "icon": "fas fa-cube"
+        }
+    ]
+}

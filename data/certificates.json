@@ -1,0 +1,30 @@
+[
+    {
+        "title": "IoT Competency Certification",
+        "issuer": "IoT Competency Certification",
+        "year": "2025",
+        "image": "images/seriot.png",
+        "file": "docs/IoT_Advantech.pdf"
+    },
+    {
+        "title": "Internship PT Purinusa Ekapersada",
+        "issuer": "APP Purinusa Ekapersada",
+        "year": "2026",
+        "image": "images/Puri.png",
+        "file": "docs/PURI.pdf"
+    },
+    {
+        "title": "UI Software and Application Design Training",
+        "issuer": "Prakerja",
+        "year": "2024",
+        "image": "images/Sekolah_Pintar.png",
+        "file": "docs/Sekolah_Pintar.pdf"
+    },
+    {
+        "title": "Matching Fund 2021",
+        "issuer": "Kampus Merdeka",
+        "year": "2021",
+        "image": "images/Serfun.png",
+        "file": "docs/Fun_2021.pdf"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "title": "IoT-Based Monitoring and Control System for Chrysanthemum Cultivation",
+        "year": "2026",
+        "role": "Thesis Project",
+        "category": "IoT",
+        "description": "Thesis project focused on an IoT-based monitoring and control system for chrysanthemum cultivation.",
+        "images": [
+            "images/iot1.jpeg",
+            "images/iot2.jpeg",
+            "images/iot3.jpeg"
+        ]
+    },
+    {
+        "title": "Digitization of Control Panel Electrical Schematics at PT Purinusa Ekapersada",
+        "year": "2026",
+        "role": "Maintenance / Electrical Innovation",
+        "category": "Automation",
+        "description": "Digitization innovation for QR code-based electrical control panel wiring to support faster access to electrical schematics during troubleshooting and maintenance.",
+        "images": [
+            "images/Project1.jpeg",
+            "images/Project2.jpeg",
+            "images/Project3.jpeg"
+        ]
+    },
+    {
+        "title": "Green Aerofarm",
+        "year": "2024",
+        "role": "Student Entrepreneurship Program (PMW)",
+        "category": "Entrepreneurship",
+        "description": "Selected for the 2024 Student Entrepreneurship Funding Program (PMW) for the “Green Aerofarm” product.",
+        "images": [
+            "images/Serfun.png"
+        ]
+    },
+    {
+        "title": "Health Neck Pillow",
+        "year": "2023",
+        "role": "Student Creativity Program (PKM-KC)",
+        "category": "Innovation",
+        "description": "Selected for the 2023 Student Creativity Program (PKM-KC) for the “Health Neck Pillow” project.",
+        "images": [
+            "images/pro.jpg"
+        ]
+    },
+    {
+        "title": "IoT Health Monitoring System for Sports",
+        "year": "2022",
+        "role": "Project Developer",
+        "category": "IoT",
+        "description": "IoT-based health monitoring project for sports. The project is listed in the portfolio CV as a project experience.",
+        "images": [
+            "images/pro.jpg"
+        ],
+        "link": "https://belajarmikrokontroler2k23.blogspot.com/2024/06/iot-health-monitoring-system-for-sports.html?m=1"
+    }
+]

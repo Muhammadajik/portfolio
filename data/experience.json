@@ -1,0 +1,16 @@
+[
+    {
+        "company": "PT Purinusa Ekapersada",
+        "logo": "images/app.jpg",
+        "position": "Internship — Maintenance",
+        "year": "Mar 2026 - Jun 2026",
+        "description": "Preventive and corrective maintenance on electrical equipment and production machinery; inspections and troubleshooting of control panels, electrical systems, and electric motors; occupational health and safety; and digitalization innovation for QR code-based electrical control panel wiring."
+    },
+    {
+        "company": "PT Laksana Bus Manufaktur",
+        "logo": "images/Laksana logo.png",
+        "position": "Operator Electric",
+        "year": "Sep 2021 - Aug 2022",
+        "description": "Installed and tested interior and exterior electrical systems on bus units; implemented working drawings and work orders in production; performed repairs on rejected bus units; and prioritized occupational health and safety."
+    }
+]
